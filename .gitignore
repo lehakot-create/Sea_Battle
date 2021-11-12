@@ -1,2 +1,6 @@
 .idea/
 __pycache__/
+Sea_Battle/
+main_SF.py
+venv/
+test.py
